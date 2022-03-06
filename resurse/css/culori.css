@@ -1,0 +1,25 @@
+body {
+    --mov: #8830F2;
+    --albastru-inchis: #302be0;
+    --albastru: #508FF5;
+    --albastru-deschis: #3EBDDE;
+    --verde: #07AD89;
+    --fundal: white;
+    --alb: white;
+    --negru: black;
+    --text: black;
+    --border: #508FF5
+}
+
+body.dark {
+    --mov: #581f9c;
+    --albastru-inchis: #1c187c;
+    --albastru: #132c55;
+    --albastru-deschis: #226779;
+    --fundal: rgb(9, 43, 59);
+    --verde: #024e3e;
+    --alb: white;
+    --negru: black;
+    --text: white;
+    --border: #739ee2;
+}
